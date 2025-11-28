@@ -1,0 +1,7 @@
+# Old Python 2 style print
+print "Hello World"
+
+# Old way to open files
+f = open("data.txt", "r")
+data = f.read()
+f.close()

@@ -1,0 +1,8 @@
+# Smart mock modernized code
+# Level: medium
+
+print "Hello World"
+
+f = open("data.txt", "r")
+data = f.read()
+f.close()
